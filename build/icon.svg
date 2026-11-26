@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- Phosphene mark: a light and its afterimage. Two flat shapes, two colours.
+       The visible gold spans x 262–810, y 214–762 (centre 536, 488; the disk's dark outline eats 22 px of it): moved so that box sits on the tile's centre,
+       and scaled to leave an even margin all round. -->
+  <rect x="100" y="100" width="824" height="824" rx="186" fill="#0f0f11"/>
+  <g transform="translate(512 512) scale(0.86) translate(-536 -488)">
+    <circle cx="588" cy="436" r="196" fill="none" stroke="#f2b84b" stroke-width="52"/>
+    <circle cx="436" cy="588" r="196" fill="#f2b84b" stroke="#0f0f11" stroke-width="44"/>
+  </g>
+</svg>

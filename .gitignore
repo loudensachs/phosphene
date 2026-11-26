@@ -1,0 +1,23 @@
+# dependencies and builds
+node_modules/
+dist/
+release/
+build/icon.icns
+*.tsbuildinfo
+
+# local media, renders and projects (never published)
+demos/
+shots/
+*.phos
+*.mp4
+*.mov
+*.wav
+*.mp3
+!.github/assets/*
+
+# machine and editor files
+.DS_Store
+.claude/
+.vscode/
+.idea/
+*.log
