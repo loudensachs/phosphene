@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/loudensachs/phosphene/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/loudensachs/phosphene?style=flat-square&color=f2b84b&labelColor=111114&label=release"></a>
-  <a href="LICENSE"><img alt="License: GPL-3.0" src="https://img.shields.io/badge/license-GPL--3.0-f2b84b?style=flat-square&labelColor=111114"></a>
-  <img alt="macOS on Apple silicon" src="https://img.shields.io/badge/macOS-Apple%20silicon-e8e6e1?style=flat-square&logo=apple&logoColor=e8e6e1&labelColor=111114">
-  <img alt="WebGPU" src="https://img.shields.io/badge/WebGPU-WGSL-8d7bd8?style=flat-square&labelColor=111114">
-  <img alt="166 operators" src="https://img.shields.io/badge/operators-166-59c2c0?style=flat-square&labelColor=111114">
+  <a href="https://github.com/loudensachs/phosphene/releases/latest"><img alt="Release v0.1.0" src=".github/assets/badges/release.svg"></a>
+  <a href="LICENSE"><img alt="License: GPL-3.0" src=".github/assets/badges/license.svg"></a>
+  <img alt="macOS on Apple silicon" src=".github/assets/badges/macos.svg">
+  <img alt="WebGPU and WGSL" src=".github/assets/badges/webgpu.svg">
+  <img alt="166 operators" src=".github/assets/badges/operators.svg">
 </p>
 
 <p align="center">
